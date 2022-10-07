@@ -5,5 +5,7 @@
   <component name="Registry">
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.lookup.shrink" value="true" />
+    <entry key="indexing.enable.entity.provider.based.indexing" value="false" />
+    <entry key="debugger.new.tool.window.layout" value="false" />
   </component>
 </application>
